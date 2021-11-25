@@ -8,5 +8,5 @@
 
 <!-- Header -->
 <h1 >Hi, I'm Adrien</h1>
-<p>I'm a third year undergraduate computer science student at <b><a href="https://www.epitech.eu/en/">Epitech IT</a></b>.</p>
+<p>I'm a fourth year computer science student at <b><a href="https://www.epitech.eu/en/">Epitech IT</a></b>.</p>
 
