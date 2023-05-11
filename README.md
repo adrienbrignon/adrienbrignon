@@ -1,6 +1,5 @@
 <h1>Hi, I'm Adrien</h1>
-<div>I'm a final year computer science student at <b><a href="https://www.epitech.eu/en/">Epitech IT</a></b>.</div>
-<div>I currently work at <b><a href="https://github.com/pandalab-sas">PandaLab</a>.</div>
+<div>I work as CISO at <a href="https://github.com/pandalab-sas">PandaLab</a></<div>.
 
 <h2 align="right">Weekly statistics</h2>
 <div align="right">
