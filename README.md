@@ -1,5 +1,5 @@
 <h1>Hi, I'm Adrien</h1>
-<div>I work as CTO at <a href="https://github.com/lunarr-group">Lunarr</a> and <a href="https://github.com/cesarr-school">Cesarr</a></<div>.
+<div>I work as CTO at <a href="https://github.com/lunarr-group">Lunarr</a></<div>.
 
 <h2 align="right">Monthly statistics</h2>
 <div align="right">
